@@ -1,7 +1,7 @@
 # Hi there 👋
 
 - 🔭 I’m currently working on self rebuild
-- 🌱 I’m currently learning Statistics, (Git + Docker == DevOps)
+- 🌱 I’m currently learning Statistics with R, Git + Docker -> DevOps
 - 👯 I’m looking to collaborate on any project that leads me to learn something new
 - 🤔 I’m looking for help with money
 - 💬 Ask me about Data Analysis, Python, Docker
