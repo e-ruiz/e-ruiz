@@ -1,10 +1,11 @@
 # Hi there 👋
 
-- 🔭 I’m currently working on self rebuild
-- 🌱 I’m currently learning Statistics with R, Git + Docker -> DevOps
-- 👯 I’m looking to collaborate on any project that leads me to learn something new
-- 🤔 I’m looking for help with money
+- 🔭 Working on self rebuild
+- 🌱 Learning Statistics with R, Git + Docker
+- 👯 Looking to collaborate on any project that leads me to learn something new
+- 🤔 Looking for help with money
 - 💬 Ask me about Data Analysis, Python, Docker
+- 🎓 Teach me Data Science, R, Python
 - ⚡ Fun fact: I have no driver license
 
 
